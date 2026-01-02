@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 Hi, I'm Abdul-Rashid <br>A passionate Software Developer with experience across frontend, backend, and cloud technologies <br>Currently deepening my skills in backend systems (NestJS, Express, Databases) <br>Interested in real-time apps, AI integrations, multi-tenant architectures, and dev tools <br>Goal: Build impactful solutions, share knowledge, and launch my own startup <br>Based in Takoradi, Ghana
+
 [Portfolio](https://askabdel.com/)
 
 ## 🌐 Socials:
