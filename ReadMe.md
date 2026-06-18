@@ -14,13 +14,13 @@ Hi, I'm Abdul-Rashid <br>A passionate Software Developer with experience across 
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrashid232&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abdulrashid's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=abdulrashid232&theme=dark&hide_border=false" alt="Abdulrashid's Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrashid232&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Abdulrashid's Top Languages" />
-</p>
+<div>
+  <img src="https://github-readme-streak-stats-weld-nu-97.vercel.app/?user=abdulrashid232&theme=github-dark" alt="GitHub Streak" />
+</div>
+<div>
+  <img src="https://github-readme-stats-green-seven-65.vercel.app/api?username=abdulrashid232&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=30" alt="Abdulrashid's GitHub stats" height="200px" />
+  <img src="https://github-readme-stats-green-seven-65.vercel.app/api/top-langs/?username=abdulrashid232&layout=compact&count_private=true&theme=tokyonight&cache_seconds=30&exclude_repo=github-readme-stats,github-readme-streak-stats&langs_count=10" height="200px" alt="Abdulrashid's Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
 
