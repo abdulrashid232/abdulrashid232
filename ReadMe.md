@@ -14,9 +14,13 @@ Hi, I'm Abdul-Rashid <br>A passionate Software Developer with experience across 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=abdulrashid232&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdulrashid232&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrashid232&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrashid232&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abdulrashid's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=abdulrashid232&theme=dark&hide_border=false" alt="Abdulrashid's Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrashid232&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Abdulrashid's Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
 
