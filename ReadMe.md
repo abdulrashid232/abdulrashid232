@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I'm Abdul-Rashid <br>A Software Engineer with experience across frontend, backend, and cloud technologies <br>Interested in real-time apps, AI integrations, multi-tenant architectures, and dev tools <br>Goal: Build impactful solutions, share knowledge, and launch one of Africa's biggest Technology company <br>Based in Takoradi, Ghana
+Hi, I'm Abdul-Rashid <br>A Software Engineer with experience across frontend, backend, and cloud technologies <br>Interested in real-time apps, AI integrations, multi-tenant architectures, and developer tools <br>Goal: Build impactful solutions, share knowledge, and launch one of Africa's biggest Technology company <br>Based in Takoradi, Ghana
 
 [Portfolio](https://askabdel.com)
 
