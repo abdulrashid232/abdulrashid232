@@ -18,8 +18,8 @@ Hi, I'm Abdul-Rashid <br>A Software Engineer with experience across frontend, ba
   <img src="https://github-readme-streak-stats-weld-nu-97.vercel.app/?user=abdulrashid232&theme=github-dark" alt="GitHub Streak" />
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrashid232&show_icons=true&count_private=true&theme=tokyonight" alt="Abdulrashid's GitHub stats" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrashid232&layout=compact&count_private=true&theme=tokyonight&exclude_repo=github-readme-stats,github-readme-streak-stats&langs_count=10" height="200px" alt="Abdulrashid's Top Languages" />
+  <img src="https://github-readme-stats-green-seven-65.vercel.app/api?username=abdulrashid232&show_icons=true&include_all_commits=true&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" alt="Abdulrashid's GitHub stats" height="200px" />
+  <img src="https://github-readme-stats-green-seven-65.vercel.app/api/top-langs/?username=abdulrashid232&layout=donut&langs_count=6&bg_color=111726&title_color=f0b14a&icon_color=7fa8d8&text_color=e8ecf4&hide_border=true" height="200px" alt="Abdulrashid's Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
